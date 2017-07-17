@@ -1,0 +1,77 @@
+{
+    "_args": [
+        [
+            {
+                "raw": "react-native-bdpush",
+                "scope": null,
+                "escapedName": "react-native-bdpush",
+                "name": "react-native-bdpush",
+                "rawSpec": "",
+                "spec": "latest",
+                "type": "tag"
+            },
+            "/Users/soocheng/Documents/git/iFastChina"
+        ]
+    ],
+    "_from": "react-native-bdpush@latest",
+    "_id": "react-native-bdpush@2.1.0",
+    "_inCache": true,
+    "_location": "/react-native-bdpush",
+    "_nodeVersion": "6.11.0",
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/react-native-bdpush-2.1.0.tgz_1499838955623_0.2691498822532594"
+    },
+    "_npmUser": {
+        "name": "qiepeipei",
+        "email": "964098704@qq.com"
+    },
+    "_npmVersion": "3.10.10",
+    "_phantomChildren": {},
+    "_requested": {
+        "raw": "react-native-bdpush",
+        "scope": null,
+        "escapedName": "react-native-bdpush",
+        "name": "react-native-bdpush",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/react-native-bdpush/-/react-native-bdpush-2.1.0.tgz",
+    "_shasum": "3191001e83cd6d81c36141a83639b6127ab1cb1e",
+    "_shrinkwrap": null,
+    "_spec": "react-native-bdpush",
+    "_where": "/Users/soocheng/Documents/git/iFastChina",
+    "author": "",
+    "dependencies": {},
+    "description": "",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "3191001e83cd6d81c36141a83639b6127ab1cb1e",
+        "tarball": "https://registry.npmjs.org/react-native-bdpush/-/react-native-bdpush-2.1.0.tgz"
+    },
+    "license": "ISC",
+    "main": "index.js",
+    "maintainers": [
+        {
+            "name": "qiepeipei",
+            "email": "964098704@qq.com"
+        }
+    ],
+    "name": "react-native-bdpush",
+    "optionalDependencies": {},
+    "readme": "ERROR: No README data found!",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qiepeipei/react-native-bdpush/"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "2.1.0"
+}
